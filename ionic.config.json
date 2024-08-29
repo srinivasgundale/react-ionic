@@ -1,0 +1,7 @@
+{
+  "name": "ionic_rcomm",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
